@@ -27,12 +27,10 @@ Here is **Kang Chen** (Click [***here***](https://chenkang455.github.io/others/C
 
 My current research focuses on the event-based motion deblurring tasks. In the near future, I will work in the Spiking Neural Network (SNN) research area.
 
-<br>
-
 ---
 ## News and Updates
 - **<font color='red'>[Highlight] </font> 07-2023：**Happy to be selected as the outstanding camper at the Peking University 2023 Summer Camp of Computer Science, advised by  [Prof. Tiejun Huang](https://cs.pku.edu.cn/info/1008/1103.htm) and [Prof. Zhaofei Yu](https://www.ai.pku.edu.cn/info/1139/1252.htm).
-- **<font color='red'>[Highlight] </font> 06-2023：**One paper "Motion Deblur by Learning Residual from Events" submitted to IEEE TMM under the guidance of Prof Lei Yu.
+- **<font color='red'>[Highlight] </font> 06-2023：**One paper "Motion Deblur by Learning Residual from Events" submitted to IEEE TMM under the guidance of Prof. Lei Yu.
 - **05-2023：**One paper "Planning method of electric vehicle public charging network with overloaded charging nodes" accepted by Electrical Measurement & Instrumentation.
 - **04-2023：** Happy to be designated as Honorable Mention in MCM 2023.
 - **11-2022：** Happy to win the first price of Hubei Province in China Undergraduate Mathematical Contest in Modeling 2022.
@@ -46,3 +44,18 @@ My current research focuses on the event-based motion deblurring tasks. In the n
 - **09-2020：** Happy to become a member of Wuhan University.
 <br>
 
+<script src="https://giscus.app/client.js"
+        data-repo="chenkang455/comment_system"
+        data-repo-id="R_kgDOJ7nAdg"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOJ7nAds4CX5Eh"
+        data-mapping="url"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
+</script>
