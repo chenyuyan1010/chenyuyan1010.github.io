@@ -4,11 +4,11 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://chenkang455.oss-cn-shanghai.aliyuncs.com/image-20230714164119718.png" class="floatpic" width="960" height="720">
 
-Here is **Kang Chen ( [陈康](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
+Here is **Kang Chen**. (Click [here]((https://chenkang455.github.io/others/CV-chenkang.pdf)) to check my CV.)
 
-I am a junior majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+I am a junior majoring in **Communication Engineering** at WuHan University. 
 
 <br>
 
