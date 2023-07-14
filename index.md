@@ -6,19 +6,14 @@ layout: page
 
 <img src="https://chenkang455.oss-cn-shanghai.aliyuncs.com/image-20230714164119718.png" class="floatpic" width="960" height="720">
 
-Here is **Kang Chen**. (Click [here](https://chenkang455.github.io/others/CV-chenkang.pdf) to check my CV.)
-
-I am a junior majoring in **Communication Engineering** at WuHan University. 
+Here is **Kang Chen** (Click [***here***](https://chenkang455.github.io/others/CV-chenkang.pdf) to check my CV). I am a junior majoring in **Communication Engineering** at WuHan University. 
 
 <br>
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** [talk with me](https://calendly.com/lancecai/meet-with-lance)
-
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Intern)
+- **Sep 2017 - July 2020:**  The No.1 Middle School Affiliated To Central China Normal University
+- **Sep 2020 - now:**  WuHan University 
 
 <br>
 
@@ -38,12 +33,8 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## News and Updates
 
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Happy to win the Finalist Award in MCM 2023.
-- **Feb 2023：**[**FZU-Flying-Book 福州大学飞跃手册**](https://fzu-fly.online/) has been published!
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Dec 2022：**Research assistant at IACTIP Lab, advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/en/info/1009/1072.htm).
-- **Sep 2022：**Happy to be nominated for the China National Scholarship.
-- **Jun 2022：**Summer Research Intern at University of Cambridge, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
+- **<font color='red'>[Highlight] </font> July 2023：**Happy to be selected as the outstanding camper at the Peking University of Computer Science 2023 Summer Camp for Undergraduates.
+- **June 2023：**One paper "Motion Deblur by Learning Residual from Events" submitted to IEEE TMM under the guidance of Prof Lei Yu.
+- 
 
 <br>
