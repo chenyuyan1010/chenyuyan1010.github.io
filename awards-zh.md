@@ -22,4 +22,3 @@ title: Awards-zh
 ## 社会服务
 - 2021年03月-至今：武汉大学电子信息学院2002团支部副团支书
 
-更新时间：2023/05/21&nbsp;   [English Version (英文)](https://caihanlin.com/awards/)
