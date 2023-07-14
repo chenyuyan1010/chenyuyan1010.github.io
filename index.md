@@ -6,13 +6,13 @@ layout: page
 
 <img src="https://chenkang455.oss-cn-shanghai.aliyuncs.com/image-20230714164119718.png" class="floatpic" width="960" height="720">
 
-Here is **Kang Chen** (Click [***here***](https://chenkang455.github.io/others/CV-chenkang.pdf) to check my CV). I am a junior majoring in **Communication Engineering** at WuHan University. 
+Here is **Kang Chen** (Click [***here***](https://chenkang455.github.io/others/CV-chenkang.pdf) to check my CV). I am a junior majoring in **Communication Engineering** at WuHan University currently. 
 
 <br>
 
 ## Academic Background
 
-- **Sep 2017 - July 2020:**  The No.1 Middle School Affiliated To Central China Normal University
+- **Sep 2017 - July 2020:**  The No.1 Middle School Affiliated To Central China Normal University 
 - **Sep 2020 - now:**  WuHan University 
 
 <br>
@@ -21,11 +21,11 @@ Here is **Kang Chen** (Click [***here***](https://chenkang455.github.io/others/C
 
 ## Research Interests
 
-- Industrial IoT System
-- Applied Machine Learning
-- Bionic Quadruped Robot
+- Event-based Image Enhancement and Visual Perception
+- Spiking neural network
+- Electric vehicle public charging network
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on the event-based motion deblurring tasks. In the near future, I will work in the Spiking Neural Network (SNN) research area.
 
 <br>
 
@@ -33,8 +33,31 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## News and Updates
 
-- **<font color='red'>[Highlight] </font> July 2023：**Happy to be selected as the outstanding camper at the Peking University of Computer Science 2023 Summer Camp for Undergraduates.
-- **June 2023：**One paper "Motion Deblur by Learning Residual from Events" submitted to IEEE TMM under the guidance of Prof Lei Yu.
-- 
+- **<font color='red'>[Highlight] </font> 07-2023：**Happy to be selected as the outstanding camper at the Peking University 2023 Summer Camp of Computer Science, advised by  [Prof. Tiejun Huang](https://cs.pku.edu.cn/info/1008/1103.htm) and [Prof. Zhaofei Yu](https://www.ai.pku.edu.cn/info/1139/1252.htm).
 
-<br>
+- **<font color='red'>[Highlight] </font> 06-2023：**One paper "Motion Deblur by Learning Residual from Events" submitted to IEEE TMM under the guidance of Prof Lei Yu.
+
+- **05-2023：**One paper "Planning method of electric vehicle public charging network with overloaded charging nodes" accepted by Electrical Measurement & Instrumentation.
+
+- **04-2023：** Happy to be designated as Honorable Mention in MCM 2023.
+
+- **11-2022：** Happy to win the first price of Hubei Province in China Undergraduate Mathematical Contest in Modeling 2022.
+
+- **10-2022：** Happy to join the **[DVS-WHU-Group](https://dvs-whu.cn/)**, advised by [Prof. Lei Yu](http://eis.whu.edu.cn/ryDetail.shtml?rsh=00030713).
+
+- **<font color='red'>[Highlight] </font>  9-2022：** Happy to be awarded the National Scholarship.
+
+- **05-2022：** Happy to win the second price in Mathorcup 2022.
+
+- **04-2022：** Happy to be designated as Honorable Mention in MCM 2022.
+
+- **11-2021：** Happy to join the Network Communication Laboratory, advised by Prof. Xun Gao.
+
+- **11-2021：** Happy to take part in the National Undergraduate Electronic Design Competition 2021.
+
+- **10-2021：** Happy to be awarded the Huang Zhangren Scholarship and the first Class Scholarship of Wuhan University.
+
+- **09-2020：** Happy to become a member of Wuhan University.
+
+  <br>
+
