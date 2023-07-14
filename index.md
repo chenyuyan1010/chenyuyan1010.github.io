@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://chenkang455.oss-cn-shanghai.aliyuncs.com/image-20230714164119718.png" class="floatpic" width="960" height="720">
 
-Here is **Kang Chen**. (Click [here]((https://chenkang455.github.io/others/CV-chenkang.pdf)) to check my CV.)
+Here is **Kang Chen**. (Click [here](https://chenkang455.github.io/others/CV-chenkang.pdf) to check my CV.)
 
 I am a junior majoring in **Communication Engineering** at WuHan University. 
 
