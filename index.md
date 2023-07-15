@@ -44,22 +44,6 @@ My current research focuses on the event-based motion deblurring tasks. In the n
 - **09-2020：** Happy to become a member of Wuhan University.
 <br>
 
-<script src="https://giscus.app/client.js"
-        data-repo="chenkang455/comment_system"
-        data-repo-id="R_kgDOJ7nAdg"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOJ7nAds4CX5Eh"
-        data-mapping="url"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="preferred_color_scheme"
-        data-lang="zh-CN"
-        crossorigin="anonymous"
-        async>
-</script>
-
 <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
 <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
 <div id="comment"></div>
