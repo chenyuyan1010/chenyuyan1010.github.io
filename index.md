@@ -67,7 +67,8 @@ This is a academic salon on the theme of "Everything-Talking". Its significance 
         notify:true,
         path: '/post/jekyll-%E6%B7%BB%E5%8A%A0-Valine-%E8%AF%84%E8%AE%BA.html',
         placeholder:'Leave your comments here.',
-        recordIP: true
+        recordIP: true,
+        enableQQ: true
     })
 </script>
 
