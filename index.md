@@ -45,8 +45,7 @@ My current research focuses on the event-based motion deblurring tasks. In the n
 <br>
 
 ## Everything-Talking
-This is a academic salon on the theme of "Everything-Talking". Its significance is to provide an opportunity for one-on-one conversation, allowing participants to engage in discussions and gain knowledge from it. Welcome to chat with me by the link below!
-[Chat Link](https://calendly.com/kangchen0623/everything-talking)
+This is a academic salon on the theme of "Everything-Talking". Its significance is to provide an opportunity for one-on-one conversation, allowing participants to engage in discussions and gain knowledge from it. Welcome to chat with me by this **[link](https://calendly.com/kangchen0623/everything-talking)** below!
 
 ## Comments
 <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
