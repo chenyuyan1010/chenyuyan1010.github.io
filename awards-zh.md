@@ -33,7 +33,7 @@ title: Awards-zh
         appId:'wQZ0cGbJkMGHNxrBER4b003l-gzGzoHsz',
         appKey:'bNnjy1X8ZWD3c5bC2OJTNmBW',
         notify:true,
-        path: '/post/jekyll-%E6%B7%BB%E5%8A%A0-Valine-%E8%AF%84%E8%AE%BA.html',
-        placeholder:'Leave your comments here.'
+        path: '/post/jekyll-%E6%B7%BB%E5%8A%A0-Valine_award-%E8%AF%84%E8%AE%BA.html',
+        placeholder:'Leave your comments here.'_
     })
 </script>
