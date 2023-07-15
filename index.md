@@ -45,11 +45,12 @@ My current research focuses on the event-based motion deblurring tasks. In the n
 <br>
 
 ## Everything-Talking
-<!-- Calendly badge widget begin -->
+
+<!-- Calendly link widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/kangchen0623/everything-talking', text: 'Schedule time with me', color: '#0069ff', textColor: '#ffffff', branding: true }); }</script>
-<!-- Calendly badge widget end -->
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/kangchen0623/everything-talking'});return false;"></a>
+<!-- Calendly link widget end -->
 
 
 ## Comments
