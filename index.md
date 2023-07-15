@@ -35,7 +35,7 @@ My current research focuses on the event-based motion deblurring tasks. In the n
 - **04-2023：** Happy to be designated as Honorable Mention in MCM 2023.
 - **11-2022：** Happy to win the first price of Hubei Province in China Undergraduate Mathematical Contest in Modeling 2022.
 - **10-2022：** Happy to join the **[DVS-WHU-Group](https://dvs-whu.cn/)**, advised by [Prof. Lei Yu](http://eis.whu.edu.cn/ryDetail.shtml?rsh=00030713).
-- **<font color='red'>[Highlight] </font>  9-2022：** Happy to be awarded the National Scholarship.
+- **<font color='red'>[Highlight] </font>  09-2022：** Happy to be awarded the National Scholarship.
 - **05-2022：** Happy to win the second price in Mathorcup 2022.
 - **04-2022：** Happy to be designated as Honorable Mention in MCM 2022.
 - **11-2021：** Happy to join the Network Communication Laboratory, advised by Prof. Xun Gao.
@@ -56,7 +56,7 @@ My current research focuses on the event-based motion deblurring tasks. In the n
         appKey:'bNnjy1X8ZWD3c5bC2OJTNmBW',
         notify:true,
         path: '/post/jekyll-%E6%B7%BB%E5%8A%A0-Valine-%E8%AF%84%E8%AE%BA.html',
-        placeholder:'在这里写评论'
+        placeholder:'Leave your comments here.'
     })
 </script>
 

@@ -6,40 +6,27 @@ title: Blogs
 
 ## Chinese Blogs
 
-### 2023
+### 理论分享
+- [单位冲激函数和单位阶跃函数笔记总结](https://zhuanlan.zhihu.com/p/368350900)<br>
+- [方向导数和梯度概念理解](https://zhuanlan.zhihu.com/p/363358887)<br>
+- [多元函数微分学的几何应用](https://zhuanlan.zhihu.com/p/364335070)<br>
+- [论卷积积分于电路分析中的产生](https://zhuanlan.zhihu.com/p/368569705)<br>
 
-- [极简风个人网站搭建指南](https://caihanlin.com/blogs/web)
+### 阶段性回顾
+- [高中毕业，浅析自己眼里的高中数学。](https://zhuanlan.zhihu.com/p/195637694)<br>
+- [闲来无事总结一下大一一年的生活](https://zhuanlan.zhihu.com/p/405933723)<br>
+- [大学网课总结](https://www.zhihu.com/question/474709636/answer/2465569735)<br>
 
-### 2022
 
-- [20岁，宽心且看月中桂](https://caihanlin.com/blogs/20yrs)<br>
-- [Cambridge 线上暑研回忆录](https://caihanlin.com/blogs/cambridge/)<br>
-- [暂停、暂停、暂停](https://caihanlin.com/blogs/stop/)
 
-### 2021
-
-- [19岁，山高路亦远](https://caihanlin.com/blogs/19yrs)<br>
-- [星野学社实习回忆录](https://caihanlin.com/blogs/star)
-
-### 2020
-
-- [18岁，缓慢受锤的黄金年代](https://caihanlin.com/blogs/18yrs)<br>
-- [本科博客，笔记，回忆录](https://mieclance.club/)
-
-<br>
-
-## Teaching & Workshops
-
-- [Lance的知乎付费咨询](https://www.zhihu.com/consult/people/1135256969806925824)<br>
-- [数学建模训练营](https://caihanlin.com/blogs/modeling)<br>
-- 本科飞跃计划 (Under Working)
-
-<br>
-
-## Leave a Message
-
-<br>
-
-{% include disqus.html %} 
-
-<br>
+<script>
+    var valine = new Valine();
+    valine.init({
+        el:'#comment',
+        appId:'wQZ0cGbJkMGHNxrBER4b003l-gzGzoHsz',
+        appKey:'bNnjy1X8ZWD3c5bC2OJTNmBW',
+        notify:true,
+        path: '/post/jekyll-%E6%B7%BB%E5%8A%A0-Valine-%E8%AF%84%E8%AE%BA.html',
+        placeholder:'Leave your comments here.'
+    })
+</script>
