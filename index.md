@@ -59,3 +59,19 @@ My current research focuses on the event-based motion deblurring tasks. In the n
         crossorigin="anonymous"
         async>
 </script>
+
+<script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+<script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+<div id="comment"></div>
+
+<script>
+    var valine = new Valine();
+    valine.init({
+        el:'#comment',
+        appId:'wQZ0cGbJkMGHNxrBER4b003l-gzGzoHsz',
+        appKey:'bNnjy1X8ZWD3c5bC2OJTNmBW',
+        notify:true,
+        path: '/post/jekyll-%E6%B7%BB%E5%8A%A0-Valine-%E8%AF%84%E8%AE%BA.html',
+        placeholder:'在这里写评论'
+    })
+</script>
