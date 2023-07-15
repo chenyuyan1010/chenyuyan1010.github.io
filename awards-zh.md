@@ -29,7 +29,7 @@ title: Awards-zh
 <script>
     var valine = new Valine();
     valine.init({
-        el:'#comment',
+        el:'#comment_awards',
         appId:'wQZ0cGbJkMGHNxrBER4b003l-gzGzoHsz',
         appKey:'bNnjy1X8ZWD3c5bC2OJTNmBW',
         notify:true,
