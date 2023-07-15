@@ -22,10 +22,14 @@ title: Awards-zh
 ## 社会服务
 - 2021年03月-至今：武汉大学电子信息学院2002团支部副团支书
 
+<script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+<script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+<div id="comment_awards"></div>
+
 <script>
     var valine = new Valine();
     valine.init({
-        el:'#comment_award',
+        el:'#comment',
         appId:'wQZ0cGbJkMGHNxrBER4b003l-gzGzoHsz',
         appKey:'bNnjy1X8ZWD3c5bC2OJTNmBW',
         notify:true,

@@ -17,12 +17,17 @@ title: Blogs
 - [闲来无事总结一下大一一年的生活](https://zhuanlan.zhihu.com/p/405933723)<br>
 - [大学网课总结](https://www.zhihu.com/question/474709636/answer/2465569735)<br>
 
+### 科研
+- todo
 
+<script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+<script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+<div id="comment_blog"></div>
 
 <script>
     var valine = new Valine();
     valine.init({
-        el:'#comment_blog',
+        el:'#comment',
         appId:'wQZ0cGbJkMGHNxrBER4b003l-gzGzoHsz',
         appKey:'bNnjy1X8ZWD3c5bC2OJTNmBW',
         notify:true,
