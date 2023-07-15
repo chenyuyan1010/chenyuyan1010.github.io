@@ -47,6 +47,12 @@ My current research focuses on the event-based motion deblurring tasks. In the n
 ## Everything-Talking
 This is a academic salon on the theme of "Everything-Talking". Its significance is to provide an opportunity for one-on-one conversation, allowing participants to engage in discussions and gain knowledge from it. Welcome to chat with me by this [link](https://calendly.com/kangchen0623/everything-talking)!
 
+<!-- Calendly badge widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/kangchen0623/everything-talking', text: 'Schedule time with me', color: '#0069ff', textColor: '#ffffff', branding: true }); }</script>
+<!-- Calendly badge widget end -->
+
 ## Comments
 <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
 <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
