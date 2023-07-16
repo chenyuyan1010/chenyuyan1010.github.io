@@ -46,7 +46,16 @@ title: Summer Camp
 ### 专业课
 我一没上过计网、计组，二没怎么复习本专业专业课，不做评价，学的依托答辩。清华电子系也有一些做AI的老师，不过听说电子系预推免有五轮专业课面试，非常之折磨，建议想去电子系做AI的同学暑假好好复习下专业课。
 
+### 写在最后
 
+
+<div style="width: 50px; height: 50px; background-color: red; animation: spin 1s linear infinite;"></div>
+<style>
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+</style>
 
 <p align="right">写于 2023.夏</p>
 
