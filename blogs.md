@@ -17,7 +17,7 @@ title: Blogs
 ### 生活随聊
 - [高中毕业，浅析自己眼里的高中数学。](https://zhuanlan.zhihu.com/p/195637694)<br>
 - [闲来无事总结一下大一一年的生活](https://zhuanlan.zhihu.com/p/405933723)<br>
-- [2023北大计算机夏令营优营分享](https://chenkang455.github.io/blogs/夏令营.md)<br>
+- [2023北大计算机夏令营优营分享](https://chenkang455.github.io/blogs/summer_camp.md)<br>
 
 ### 知识总结
 - [大学网课总结](https://www.zhihu.com/question/474709636/answer/2465569735)<br>
