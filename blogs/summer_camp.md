@@ -47,9 +47,9 @@ title: Summer Camp
 我一没上过计网、计组，二没怎么复习本专业专业课，不做评价，学的依托答辩。清华电子系也有一些做AI的老师，不过听说电子系预推免有五轮专业课面试，非常之折磨，建议想去电子系做AI的同学暑假好好复习下专业课。
 
 ### 写在最后
+如果读到这里的你恰好是武大电信的大一大二学生，而且有投向偏软领域发展，身为过来人我有几点意见想要送给你：
 
-
-<div style="width: 50px; height: 50px; background-color: red; animation: spin 1s linear infinite;"></div>
+<div style="width: 50px; height: 50px; background-color: black; animation: spin 10s linear infinite;"></div>
 <style>
 @keyframes spin {
   0% { transform: rotate(0deg); }
