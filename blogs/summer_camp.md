@@ -63,3 +63,20 @@ title: Summer Camp
 
 
 <p align="right">写于 2023.夏</p>
+
+
+<script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+<script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+<div id="comment_blog_summer"></div>
+
+<script>
+    var valine = new Valine();
+    valine.init({
+        el:'#comment_blog_summer',
+        appId:'wQZ0cGbJkMGHNxrBER4b003l-gzGzoHsz',
+        appKey:'bNnjy1X8ZWD3c5bC2OJTNmBW',
+        notify:true,
+        path: '/post/jekyll-%E6%B7%BB%E5%8A%A0-Valine_blog_summer-%E8%AF%84%E8%AE%BA.html',
+        placeholder:'Leave your comments here.'
+    })
+</script>
